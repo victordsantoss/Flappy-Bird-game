@@ -92,7 +92,7 @@ def desenhar_flappy ():
     # Função responsável por desenhar o bird que se encontra no PixelEditor
     pyxel.blt (flappy_x, flappy_y, img, u, v, largura, altura, mascara)
 
-def atualizar_flappy():
+def atualizar_flappy ():
     global velocidade, flappy_x, flappy_y, gravidade
 
     pulando = pyxel.btnp (pyxel.KEY_SPACE) or pyxel.btnp(pyxel.KEY_UP)
@@ -158,7 +158,7 @@ def restart_game ():
     gravidade = 1
     velocidade = 0
 
-    ########## Estado de Jogo 
+    # Estado de Jogo 
     ativo = False
     morto = False
     score = 0
@@ -167,10 +167,10 @@ def restart_game ():
     # Cria canos 
     distancia_canos = 80
     abertura_cano = 200
-    cano1 = largura_tela + distancia_canos * 0, -10 * randint(1, 8)
-    cano2 = largura_tela + distancia_canos * 1, -10 * randint(1, 8)
-    cano3 = largura_tela + distancia_canos * 2, -10 * randint(1, 8)
-    cano4 = largura_tela + distancia_canos * 3, -10 * randint(1, 8)
+    cano1 = largura_tela + distancia_canos * 0, -10 * randint (1, 8)
+    cano2 = largura_tela + distancia_canos * 1, -10 * randint (1, 8)
+    cano3 = largura_tela + distancia_canos * 2, -10 * randint (1, 8)
+    cano4 = largura_tela + distancia_canos * 3, -10 * randint (1, 8)
     canos = [cano1, cano2, cano3, cano4]
 
 def desenhar ():
