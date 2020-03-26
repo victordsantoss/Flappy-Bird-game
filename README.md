@@ -12,14 +12,15 @@
    
 # Jogo 
 1. Tela de Jogo
+
    ![Tela de Jogo](https://i.imgur.com/hHalFvT.png)
+
 2. Game Over
+
    ![Game Over](https://i.imgur.com/NSs1ZFD.png)
 
 # Orientações 
-> Comandos: 
-
-    SpaceBar ou seta direcional para cima. 
+> Comandos: SpaceBar ou seta direcional para cima. 
 
 # Biblioteca
 * A biblioteca [Pyxel](https://github.com/kitao/pyxel) é um mecanismo de jogo retrô em Python. "Graças às suas especificações simples inspiradas nos consoles de jogos retro, como apenas 16 cores podem ser exibidas e apenas 4 sons podem ser reproduzidos ao mesmo tempo, você pode se sentir à vontade para fazer jogos no estilo pixel art."
