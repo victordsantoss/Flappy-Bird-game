@@ -46,4 +46,5 @@
 
 > Após o download, basta abrir o arquivo e executá-lo.
  
-
+## :warning: Sobre o projeto
+ * Este projeto foi desenvolvido pelo organização [Pyladiesdf](https://github.com/pyladiesdf/flappy-tutorial). 
