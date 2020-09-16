@@ -17,7 +17,7 @@
 
 2. Game Over
 
-   ![Game Over](https://i.imgur.com/NSs1ZFD.png)
+   ![Game Over](https://i.imgur.com/8AGdrUX.png)
 
 ## :warning: Orientações 
 > Comandos: SpaceBar ou seta direcional para cima. 
