@@ -36,7 +36,7 @@
     git clone https://github.com/victordsantoss/flappy-bird.git
 > Acessar a pasta raiz do repositório
 
-    cd ../../flappy_bird
+    cd ../../flappy-bird
 > Executar aplicação
 
     python Jogo.py 
