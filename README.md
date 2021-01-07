@@ -31,13 +31,13 @@
 
 ## :running: Execução pelo sistema Ubuntu
 
-> No terminal clone este repositório
+> Clonar repositório da aplicação
 
-    git clone https://github.com/victordsantoss/flappy_bird.git
-> Acesse a pasta raiz do repositório
+    git clone https://github.com/victordsantoss/flappy-bird.git
+> Acessar a pasta raiz do repositório
 
     cd ../../flappy_bird
-> Comando de Execução
+> Executar aplicação
 
     python Jogo.py 
 
